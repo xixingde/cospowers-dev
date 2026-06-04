@@ -1,0 +1,13 @@
+{
+  // cospowers 配置补丁。每次会话启动时自动合并到 cospowers 主配置。
+  // 填值 = 覆盖对应项
+  // 如需自定义，则参照cospowers配置进行添加
+  "_dept": "XXX",
+  "_version": "1.0.0",
+  "_updated": "2026-05-13",
+
+  "project": {
+    "_comment": "产品元数据",
+    "product": "XXX"  // 产品名称（如 SCC、SCP、DMP），用于标识当前项目所属产品线
+  }
+}

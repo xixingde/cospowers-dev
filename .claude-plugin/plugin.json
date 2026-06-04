@@ -1,0 +1,13 @@
+{
+  "name": "cospowers-dev",
+  "description": "通用 的 cospowers 扩展包",
+  "version": "0.1.0",
+  "author": { "name": "xxx", "team": "xxx 研发团队" },
+  "homepage": "git@git.sangfor.com:ai-native/cospowers/dept-cospowers/cospowers-dev.git",
+  "repository": "git@git.sangfor.com:ai-native/cospowers/dept-cospowers/cospowers-dev.git",
+  "cospowers": {
+    "extends": "cospowers",
+    "cospowerVersion": ">=0.1.3"
+  },
+  "keywords": ["cospowers-extension", "dev", "evaluator", "coding-standards", "debugging", "unit-test"]
+}
